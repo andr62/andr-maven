@@ -1,4 +1,4 @@
-package andr.lec_3.homework.task_1;
+package andr.maven.andr.lec_3.homework.task_1;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package andr.lec_2.homework.task_3;
+package andr.maven.andr.lec_2.homework.task_3;
 
 public class TotalSum {
     public static void main(String[] args) {

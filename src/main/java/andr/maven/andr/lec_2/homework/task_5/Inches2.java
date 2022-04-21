@@ -1,4 +1,4 @@
-package andr.lec_2.homework.task_5;
+package andr.maven.andr.lec_2.homework.task_5;
 
 public class Inches2 {
     public static void main(String[] args) {

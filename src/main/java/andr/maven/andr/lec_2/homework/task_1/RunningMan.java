@@ -1,4 +1,4 @@
-package andr.lec_2.homework.task_1;
+package andr.maven.andr.lec_2.homework.task_1;
 
 public class RunningMan {
     public static void main(String[] args) {

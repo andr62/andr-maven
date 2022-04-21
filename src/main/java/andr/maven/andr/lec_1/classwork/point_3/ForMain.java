@@ -1,4 +1,4 @@
-package andr.lec_1.classwork.point_3;
+package andr.maven.andr.lec_1.classwork.point_3;
 
 public class ForMain {
     public static void main(String[] args) {

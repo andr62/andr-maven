@@ -1,4 +1,4 @@
-package andr.lec_2.homework.task_7;
+package andr.maven.andr.lec_2.homework.task_7;
 
 public class EvenNumbers {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package andr.lec_2.homework.task_6;
+package andr.maven.andr.lec_2.homework.task_6;
 
 public class OddNumbers {
     public static void main(String[] args) {

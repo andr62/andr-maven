@@ -1,4 +1,4 @@
-package andr.lec_1.classwork.point_6;
+package andr.maven.andr.lec_1.classwork.point_6;
     public class JavaOperators {
         public static void main(String[] args) {
             int myInt_1 = 33;

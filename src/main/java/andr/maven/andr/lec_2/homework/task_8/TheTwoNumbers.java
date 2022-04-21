@@ -1,4 +1,4 @@
-package andr.lec_2.homework.task_8;
+package andr.maven.andr.lec_2.homework.task_8;
 
 public class TheTwoNumbers {
     public static void main(String[] args) {

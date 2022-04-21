@@ -1,4 +1,4 @@
-package andr.lec_2.homework.task_9;
+package andr.maven.andr.lec_2.homework.task_9;
 
 public class paint {
     public static void main(String[] args) {

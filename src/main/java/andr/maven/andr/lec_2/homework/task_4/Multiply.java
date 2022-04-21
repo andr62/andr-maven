@@ -1,4 +1,4 @@
-package andr.lec_2.homework.task_4;
+package andr.maven.andr.lec_2.homework.task_4;
 
 public class Multiply {
     public static void main(String[] args) {

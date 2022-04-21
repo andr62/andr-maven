@@ -1,4 +1,4 @@
-package andr.lec_1.classwork.point_3;
+package andr.maven.andr.lec_1.classwork.point_4;
 
 public class JavaTypes {
     public static void main(String[] args) {
