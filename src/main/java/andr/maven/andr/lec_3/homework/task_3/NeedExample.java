@@ -4,12 +4,7 @@ import java.util.Arrays;
 import java.util.Random;
 
 
-
-import java.util.Arrays;
-import java.util.Random;
-
-
-    public class K {
+public class NeedExample {
         public static void main(String[] args) {
             Random randomInt = new Random();
             int x = randomInt.nextInt(50);
