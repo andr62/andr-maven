@@ -7,8 +7,11 @@
   <groupId>andr.maven</groupId>
   <artifactId>andr-maven</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <modules>
+    <module>java-spring</module>
+  </modules>
 
-  <packaging>jar</packaging>
+  <packaging>pom</packaging>
 
   <name>andr-maven</name>
   <!-- FIXME change it to the project's website -->
